@@ -72,3 +72,5 @@ npm install --global --production windows-build-tools
 
 ## Purgecss
 This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gatsby-plugin-purgecss/) and [bulma](https://bulma.io/). The bulma builds are usually ~170K but reduced 90% by purgecss.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/308e9c26-0be7-4ba5-a7e0-aac2ac6d945d/deploy-status)](https://app.netlify.com/sites/weiplanet/deploys)
