@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Make it Happen
+title: 'Hi, I''m Wei, software developer.'
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Make it Happen
 mainpitch:
   title: WeiPlent.com
   description: >
